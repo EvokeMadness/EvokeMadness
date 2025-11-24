@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a maker and independent learner. I make content in several different mediums, because I am always excited to learn new skills and disciplines! My content can be found on the sites listed below:
+
+[`Printables`](https://www.printables.com/@EvokeMadness_492935) | [`Thingiverse`](https://www.thingiverse.com/EvokeMadness/designs) | [`Unsplash`](https://unsplash.com/@evokemadness) | [`itch.io`](https://evokemadness.itch.io/)
+
+I believe in [The Freedom of Information](https://www.nasa.gov/foia/), [The Open Source Way](https://www.theopensourceway.org/), and [Universal Access to All Knowledge](https://archive.org/)
+
 <!--
 **EvokeMadness/EvokeMadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
